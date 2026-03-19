@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\justin\\desktop\\staircpp2\\source\\staircpp2\\staircpp2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\justin\\desktop\\staircpp2\\intermediate\\build\\win64\\x64\\staircpp2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\justin\\desktop\\staircpp2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\staircpp2\\definitions.staircpp2.h",
+            "c:\\users\\justin\\desktop\\staircpp2\\source\\staircpp2\\staircpp2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

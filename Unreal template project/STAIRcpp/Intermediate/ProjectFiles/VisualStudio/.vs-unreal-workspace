@@ -1,0 +1,19 @@
+{
+  "targets": {
+    "STAIRcpp2Editor": {
+      "targetType": "Editor",
+      "targetPath": "C:\\Users\\Justin\\Desktop\\STAIRcpp2\\Source\\STAIRcpp2Editor.Target.cs",
+      "projectPath": "C:\\Users\\Justin\\Desktop\\STAIRcpp2\\STAIRcpp2.uproject",
+      "configurations": [
+        "Development"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "Development-Win64"
+      ]
+    }
+  }
+}

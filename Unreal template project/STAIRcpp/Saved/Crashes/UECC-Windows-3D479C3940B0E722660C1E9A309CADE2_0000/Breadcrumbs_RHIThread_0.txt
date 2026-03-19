@@ -1,0 +1,7 @@
+Breadcrumbs 'RHIThread'
+ - RayTracingDynamicGeometryUpdate
+ - RayTracingDynamicGeometry
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 198260

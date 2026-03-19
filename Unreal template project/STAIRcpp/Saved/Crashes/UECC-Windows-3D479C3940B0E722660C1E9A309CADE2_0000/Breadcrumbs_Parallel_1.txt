@@ -1,0 +1,6 @@
+Breadcrumbs 'Parallel'
+ - SkyAtmosphere
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 198260

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\justin\\documents\\unreal projects\\staircpp2\\source\\staircpp2\\submixeffectsharedmemory.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\justin\\documents\\unreal projects\\staircpp2\\intermediate\\build\\win64\\x64\\staircpp2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\justin\\documents\\unreal projects\\staircpp2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\staircpp2\\definitions.staircpp2.h",
+            "c:\\users\\justin\\documents\\unreal projects\\staircpp2\\source\\staircpp2\\submixeffectsharedmemory.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
