@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.STAIRcpp2.gen.cpp.obj": [
-			"STAIRcpp2.init.gen.cpp.obj",
-			"SubmixEffectSharedMemory.gen.cpp.obj"
-		]
-	}
-}
